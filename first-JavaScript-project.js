@@ -1,1 +1,1 @@
-
+var myVariable = "newVar";
